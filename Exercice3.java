@@ -10,7 +10,7 @@ class Exercice3 {
             num = sc.nextInt();
             if ((num%3)==0) {
                 System.out.println(num + " est multiple de 3.");
-                total = (total+1)
+                total = (total+1);
             }
         }
         
